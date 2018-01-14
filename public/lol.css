@@ -1,0 +1,16 @@
+h1 {
+    font-size: 60px;
+}
+.image{
+    padding: 50px;
+    height:200px;
+    font-size: 32px;
+    margin:0px;
+    font-weight: bold;
+    text-align: center;
+    background: #dbdfe5;
+}
+.sbutton{
+    width:350px;
+    margin: 0px ;
+}
